@@ -7,7 +7,7 @@ I 💖love my all creations even if it's small and inconspicuous. So I give my w
 
 You can contact me here.
 
-https://join.skype.com/invite/vox8cknMCJWc
+https://join.skype.com/invite/UNq8kzDVM5yd
 
 https://t.me/compete1191
 
