@@ -250,7 +250,7 @@ https://t.me/compete1191
 
 ##### ✅ Figma | ✅ Photoshop | ✅ XD...
 
-### Frontt development
+### Front development
 
 #### Web
 ##### ✅ HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS | ✅ React | ✅ Angular | ✅ Vue...
