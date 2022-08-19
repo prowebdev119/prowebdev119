@@ -245,26 +245,21 @@ https://t.me/compete1191
 
 # Development Skill Set
 
-### Correct logic and good communication lead to going successful!
+### Correct logic and good communication leads to success!
 
-### Design
+### Web Design
 
-##### ✅ Figma | ✅ Photoshop | ✅ XD...
+##### ✅ Figma | ✅ Photoshop | ✅ XD
 
-### Front development
+### Web Front development
 
-#### Web
-##### ✅ HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS | ✅ React | ✅ Angular | ✅ Vue...
+##### ✅ HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
 
-#### Mobile
-##### ✅ Android Studio | ✅ Xcode | ✅ React Native | ✅ ionic | ✅ Fluter
+### Web Backend development
 
-### Backend development
+##### ✅Node/Nest.js | ✅PHP/Laravel/Codeigniter | ✅Python/Django/Flask
 
-##### ✅Node | ✅PHP : Laravel, Codeigniter | ✅Python : Django, Flask | ✅Java, Kotlin  | ✅C#, C++
-
-### Database development
-
-##### ✅ MySQL | ✅ MongoDB | ✅ Firebase | ✅ Ninox | ✅ MS Sever
+### Hosting Servers
+##### ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
 
 
