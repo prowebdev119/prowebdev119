@@ -251,13 +251,17 @@ https://t.me/compete1191
 
 ##### ✅ Figma | ✅ Photoshop | ✅ XD
 
-### Web Front development
+### Web Front development(Full Responsive & Pixel Perfect from Design)
 
-##### ✅ HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
+##### ✅ HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
 
 ### Web Backend development
 
 ##### ✅Node/Nest.js | ✅PHP/Laravel/Codeigniter | ✅Python/Django/Flask
+
+### CMS development
+
+##### ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
 
 ### Hosting Servers
 ##### ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
