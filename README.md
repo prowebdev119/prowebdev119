@@ -1,9 +1,10 @@
-# 🏆🏆🏆 WEB DESIGNER | WEB DEVELOPER 🏆🏆🏆
+# 🥇🥈🥉 WEB DESIGNER | WEB DEVELOPER 🥇🥈🥉
 
-I'm a developer who implements customers' ideas🧐🛰🚀.
+I'm an experienced web developer who implements customers' ideas🧐🛰🚀.
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
-As a full-stack developer, I started programming when I was 10 at code school and worked on IT company since 2015, but I retired from that company from 2021. For standing out 👍my Skills on the world and getting ⭐⭐⭐review🥇🥈🥉. I want to directly working with client and show my talent skills.
-I 💖love my all creations even if it's small and inconspicuous. So I give my whole 💖heart and soul for thems.
+As a full-stack developer, I started programming when I was 10 at code school and worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19. 
+I expect to work long-term relation with you because it is difficult for me to meet real clients in this world today.
+I give my whole 💖heart and soul for clients and their products.
 
 You can contact me here.
 
@@ -11,7 +12,7 @@ https://join.skype.com/invite/UNq8kzDVM5yd
 
 https://t.me/compete1191
 
-# My Skills (I can help you in this follow fields)
+# My skill sets
 
 <table align="center">
     <tbody>
