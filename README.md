@@ -18,11 +18,11 @@ https://t.me/compete1191
 
 - 🖥️ <b>Website and App Design</b>  
   ✅Fimga | ✅Photoshop | ✅XD
-- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>
+- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
   ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
-- ⚛ <b>CMS development</b>
+- ⚛ <b>CMS development</b>  
   ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
-- 🌐 <b>Hosting Servers</b>
+- 🌐 <b>Hosting Servers</b>  
   ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
 
 <p align="center" style="margin-bottom: 10px;">
