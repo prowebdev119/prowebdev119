@@ -14,6 +14,10 @@ https://join.skype.com/invite/UNq8kzDVM5yd
 
 https://t.me/compete1191
 
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/badge_aladdinGene.svg"/>
+</p>
+
 # My skill sets
 
 <table align="center">
