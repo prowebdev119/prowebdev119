@@ -21,7 +21,7 @@ https://t.me/compete1191
         <tr>
             <td align="center" width="96" height="96">
                 <a href="#html">
-                    <img src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="60" alt="html" style="max-width: 100%;">
+                    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
