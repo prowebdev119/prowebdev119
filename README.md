@@ -7,12 +7,15 @@ I expect to work long-term relation with you because it is difficult for me to m
 I give my whole 💖heart and soul for clients and their products.
 
 You can contact me here.
-
 h98119@gmail.com
-
 https://join.skype.com/invite/UNq8kzDVM5yd
-
 https://t.me/compete1191
+## Correct logic and good communication leads to success!
+
+- 🖥️ <b>Website and App Design</b> : ✅Fimga | ✅Photoshop | ✅XD
+- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b> : ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
+- ⚛ <b>CMS development</b> : ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
+- 🌐 <b>Hosting Servers</b> : ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/badge_aladdinGene.svg"/>
@@ -195,13 +198,5 @@ https://t.me/compete1191
   <img width="400" src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
 </p>
 
-# Development Skill Set
-
-## Correct logic and good communication leads to success!
-
-- 🖥️ <b>Website and App Design</b> : ✅Fimga | ✅Photoshop | ✅XD
-- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b> : ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
-- ⚛ <b>CMS development</b> : ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
-- 🌐 <b>Hosting Servers</b> : ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
 
 
