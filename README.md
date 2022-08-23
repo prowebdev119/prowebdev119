@@ -179,6 +179,18 @@ https://t.me/compete1191
   </tr>
 </table>
 
+<summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/github-status_aladdinGene.svg">
+  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/languages_aladdinGene.svg">
+</p>
+
+<summary> 👋 <b>You're welcome anytime!</b> </summary>
+<p align="center">
+  <img width="400" src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
+</p>
+
 # Development Skill Set
 
 ### Correct logic and good communication leads to success!
