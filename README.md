@@ -197,25 +197,11 @@ https://t.me/compete1191
 
 # Development Skill Set
 
-### Correct logic and good communication leads to success!
+## Correct logic and good communication leads to success!
 
-### Web Design
-
-##### ✅ Figma | ✅ Photoshop | ✅ XD
-
-### Web Front development(Full Responsive & Pixel Perfect from Design)
-
-##### ✅ HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
-
-### Web Backend development
-
-##### ✅Node/Nest.js | ✅PHP/Laravel/Codeigniter | ✅Python/Django/Flask
-
-### CMS development
-
-##### ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
-
-### Hosting Servers
-##### ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
+- 🖥️ <b>Website and App Design</b> : ✅Fimga | ✅Photoshop | ✅XD
+- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b> : ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
+- ⚛ <b>CMS development</b> : ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
+- 🌐 <b>Hosting Servers</b> : ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
 
 
