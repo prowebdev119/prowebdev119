@@ -17,13 +17,13 @@ https://t.me/compete1191
 ## Correct logic and good communication leads to success!
 
 - 🖥️ <b>Website and App Design</b>  
-  ✅Fimga | ✅Photoshop | ✅XD
+  Fimga | Photoshop | XD
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
-  ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
+  HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | React/Next.js | Angular | Vue/Nuxt.js
 - ⚛ <b>CMS development</b>  
-  ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
+  WordPress | eCommerce(Ecwid) | Shopify
 - 🌐 <b>Hosting Servers</b>  
-  ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
+  AWS | Hostgator | Bluehost | Godaddy | Nginx
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/badge_aladdinGene.svg"/>
