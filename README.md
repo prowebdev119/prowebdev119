@@ -25,10 +25,6 @@ https://t.me/compete1191
 - 🌐 <b>Hosting Servers</b>  
   AWS | Hostgator | Bluehost | Godaddy | Nginx
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/badge_aladdinGene.svg"/>
-</p>
-
 # My skill sets
 
 <table align="center">
@@ -193,13 +189,6 @@ https://t.me/compete1191
     </td>
   </tr>
 </table>
-
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/github-status_aladdinGene.svg">
-  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/languages_aladdinGene.svg">
-</p>
 
 <summary> 👋 <b>You're welcome anytime!</b> </summary>
 <p align="center">
