@@ -1,4 +1,4 @@
-# 🥇🥈🥉 WEB DESIGNER | WEB DEVELOPER 🥇🥈🥉
+# WEB DESIGNER | WEB DEVELOPER 
 
 I'm an experienced web developer who implements customers' ideas🧐🛰🚀.
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
