@@ -28,7 +28,7 @@ You can contact me here.
   WordPress | eCommerce(Ecwid) | Shopify
 - 🌐 <b>Hosting Servers</b>  
   AWS | Hostgator | Bluehost | Godaddy | Nginx
-
+<img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 # My skill sets
 
 <table align="center">
