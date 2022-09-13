@@ -17,7 +17,7 @@ You can contact me here.
   &nbsp;&nbsp;
   <a href="Olha Shliusar#8858" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" rel="noopener noreferrer"><img src="[https://img.icons8.com/nolan/2x/link.png](https://www.freelancer.com/favicon.ico)"  width="50" /></a>
+  <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" rel="noopener noreferrer"><img src="https://www.freelancer.com/favicon.ico"  width="50" /></a>
   
 </p>
 ## Correct logic and good communication leads to success!
