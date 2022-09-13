@@ -1,4 +1,4 @@
-# 🥇🥈🥉 WEB DESIGNER | WEB DEVELOPER 🥇🥈🥉
+# WEB DESIGNER | WEB DEVELOPER 
 
 I'm an experienced web developer who implements customers' ideas🧐🛰🚀.
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
@@ -8,27 +8,30 @@ I give my whole 💖heart and soul for clients and their products.
 
 You can contact me here.
 
-h98119@gmail.com
-
-https://join.skype.com/invite/UNq8kzDVM5yd
-
-https://t.me/compete1191
-
-## Correct logic and good communication leads to success!
-
-- 🖥️ <b>Website and App Design</b>  
-  ✅Fimga | ✅Photoshop | ✅XD
-- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
-  ✅HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | ✅ React/Next.js | ✅ Angular | ✅ Vue/Nuxt.js
-- ⚛ <b>CMS development</b>  
-  ✅WordPress | ✅eCommerce(Ecwid) | ✅Shopify
-- 🌐 <b>Hosting Servers</b>  
-  ✅AWS | ✅Hostgator | ✅Bluehost | ✅Godaddy | ✅Nginx
-
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/badge_aladdinGene.svg"/>
+<p align="center">
+  <a href="mailto:h98119@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/UNq8kzDVM5yd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/compete1191" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" rel="noopener noreferrer"><img src="https://www.freelancer.com/favicon.ico"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="Olha Shliusar#8858" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
 </p>
 
+Correct logic and good communication leads to success!
+
+- 🖥️ <b>Website and App Design</b>  
+  Fimga | Photoshop | XD
+- 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
+  HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | React/Next.js | Angular | Vue/Nuxt.js
+- ⚛ <b>CMS development</b>  
+  WordPress | eCommerce(Ecwid) | Shopify
+- 🌐 <b>Hosting Servers</b>  
+  AWS | Hostgator | Bluehost | Godaddy | Nginx
+
+<img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 # My skill sets
 
 <table align="center">
@@ -193,18 +196,17 @@ https://t.me/compete1191
     </td>
   </tr>
 </table>
-
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/github-status_aladdinGene.svg">
-  <img src = "https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/languages_aladdinGene.svg">
-</p>
-
+<!-- <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prowebdev119&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prowebdev119&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <br><br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prowebdev119&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p> -->
 <summary> 👋 <b>You're welcome anytime!</b> </summary>
 <p align="center">
   <img width="400" src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
 </p>
+
 
 
 
