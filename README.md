@@ -15,6 +15,8 @@ You can contact me here.
   &nbsp;&nbsp;
   <a href="https://t.me/compete1191" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="Olha Shliusar#8858" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </p>
