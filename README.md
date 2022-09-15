@@ -25,9 +25,9 @@ Correct logic and good communication leads to success!
 - 🖥️ <b>Website and App Design</b>  
   Fimga | Photoshop | XD
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
-  HTML/CSS/Bootstrap/JavaScript/jQuery/TailwindCSS | React/Next.js | Angular | Vue/Nuxt.js
+  HTML | CSS | Bootstrap | JavaScript | jQuery | TailwindCSS | React/Next.js | Angular | Vue/Nuxt.js
 - ⚛ <b>CMS development</b>  
-  WordPress | eCommerce(Ecwid) | Shopify
+  WordPress | eCommerce(Ecwid) | Shopify | Woocommerce | Bigcommerce
 - 🌐 <b>Hosting Servers</b>  
   AWS | Hostgator | Bluehost | Godaddy | Nginx
 
