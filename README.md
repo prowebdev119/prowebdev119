@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=435&lines=Website+Designer+and+Website+Developer"></p>
+# <p align="center"><img src="[https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=435&lines=Website+Designer+and+Website+Developer](https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Website+Designer+and+Website+Developer)"></p>
 
 I'm an experienced web developer who implements customers' ideas🧐🛰🚀.
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
