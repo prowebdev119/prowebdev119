@@ -202,10 +202,7 @@ My skill sets
   <br><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prowebdev119&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p> -->
-<summary> 👋 <b>You're welcome anytime!</b> </summary>
-<p align="center">
-  <img width="400" src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
-</p>
+
 
 
 
