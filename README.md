@@ -20,8 +20,6 @@ You can contact me here.
   <a href="Olha Shliusar#8858" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
 </p>
 
-Correct logic and good communication leads to success!
-
 - 📱 <b>Website and App Design</b>  
   Fimga | Photoshop | XD
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
