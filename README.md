@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Website+Designer+and+Website+Developer"></p>
 
-I'm an experienced web developer who implements customers' ideas🧐🛰🚀.
+I'm an experienced web developer who implements customers' ideas - 🚀.
 As a full-stack developer, I started programming when I was 10 at code school and worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19. 
 I expect to work long-term relation with you because it is difficult for me to meet real clients in this world today.
 I give my whole 💖heart and soul for clients and their products.
