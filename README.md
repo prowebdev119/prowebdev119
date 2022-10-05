@@ -19,10 +19,8 @@ You can contact me here.
   <a href="Olha Shliusar#8858" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
 </p>
 
-- 📱 <b>Website and App Design</b>  
-  Fimga | Photoshop | XD
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
-  HTML | CSS | Bootstrap | JavaScript | jQuery | TailwindCSS | React/Next.js | Angular | Vue/Nuxt.js
+  HTML5 | CSS3 | Bootstrap5 | JavaScript/jQuery | TailwindCSS | React/Next.js | Vue/Nuxt.js | Angular
 - 💌 <b>CMS development</b>  
   WordPress | eCommerce(Ecwid) | Shopify | Woocommerce | Bigcommerce
 - 🌐 <b>Hosting Servers</b>  
