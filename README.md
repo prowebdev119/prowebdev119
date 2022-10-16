@@ -16,7 +16,7 @@ You can contact me here.
   &nbsp;&nbsp;
   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" rel="noopener noreferrer"><img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/freelancer.png"  width="50" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/kCYEdfdd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.gg/kCYEdfdd" target="_blank" rel="noopener noreferrer" title="Olha"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
 </p>
 
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
