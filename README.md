@@ -20,7 +20,7 @@ You can contact me here.
   &nbsp;&nbsp;
   <a href="https://discord.com/invite/kCYEdfdd" target="_blank" rel="noopener noreferrer" title="Olha Shliusar#8858"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   <a href="https://discord.com/invite/kCYEdfdd"  title="Olha Shliusar#8858">
-    <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+    <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=discord&logoColor=white" alt="Upwork Badge"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/compete1191" target="_blank" rel="noopener noreferrer" title="@compete1191"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
