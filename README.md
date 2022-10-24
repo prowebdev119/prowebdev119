@@ -20,9 +20,11 @@ You can contact me here.
   <a href="https://t.me/compete1191"  title="@compete1191">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  
+  
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt=""/>
+<align="center" img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt=""/>
 
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
   HTML5 | CSS3 | Bootstrap5 | JavaScript/jQuery | TailwindCSS | React/Next.js | Vue/Nuxt.js | Angular
