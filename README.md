@@ -24,7 +24,7 @@ You can contact me here.
   
 </div>
 
-<align="center" img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt="" align="center" />
 
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
   HTML5 | CSS3 | Bootstrap5 | JavaScript/jQuery | TailwindCSS | React/Next.js | Vue/Nuxt.js | Angular
