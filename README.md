@@ -7,7 +7,7 @@ I give my whole 💖heart and soul for clients and their products.
 
 You can contact me here.
 
-<p align="center">
+<div align="center">
   <a href="mailto:h98119@gmail.com"  title="h98119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
   </a>
@@ -20,7 +20,9 @@ You can contact me here.
   <a href="https://t.me/compete1191"  title="@compete1191">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</p>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt=""/>
 
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
   HTML5 | CSS3 | Bootstrap5 | JavaScript/jQuery | TailwindCSS | React/Next.js | Vue/Nuxt.js | Angular
