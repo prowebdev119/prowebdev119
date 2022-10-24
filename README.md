@@ -8,22 +8,15 @@ I give my whole 💖heart and soul for clients and their products.
 You can contact me here.
 
 <p align="center">
-  <a href="mailto:h98119@gmail.com" target="_blank" rel="noopener noreferrer" title="h98119@gmail.com"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   <a href="mailto:h98119@gmail.com"  title="h98119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/UNq8kzDVM5yd" target="_blank" rel="noopener noreferrer" title="live:.cid.5eddc740c0b404a1"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   <a href="https://join.skype.com/invite/UNq8kzDVM5yd"  title="live:.cid.5eddc740c0b404a1">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/invite/kCYEdfdd" target="_blank" rel="noopener noreferrer" title="Olha Shliusar#8858"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   <a href="https://discord.com/invite/kCYEdfdd"  title="Olha Shliusar#8858">
     <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=discord&logoColor=white" alt="Upwork Badge"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/compete1191" target="_blank" rel="noopener noreferrer" title="@compete1191"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   <a href="https://t.me/compete1191"  title="@compete1191">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
