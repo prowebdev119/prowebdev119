@@ -25,6 +25,8 @@ You can contact me here.
   </a>
 </div>
 
+<br>
+
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
   HTML5 | CSS3 | Bootstrap5 | JavaScript/jQuery | TailwindCSS | React/Next.js | Vue/Nuxt.js | Angular
 - 💌 <b>CMS development</b>  
