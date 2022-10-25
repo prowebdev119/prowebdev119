@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Website+Designer+and+Website+Developer"></p>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Website+Designer+and+Website+Developer"></div>
 
 I'm Olha Shliusar from Ukraine and an experienced web designer and developer.
 As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19 and war with Russian. 
@@ -24,7 +24,6 @@ You can contact me here.
     <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
   </a>
 </div>
-
 <br>
 
 - 👨‍💻 <b>Web Front development(Full Responsive & Pixel Perfect from Design)</b>  
