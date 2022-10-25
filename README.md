@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Website+Designer+and+Website+Developer"></div>
 
-I'm Olha Shliusar from Ukraine and an experienced web designer and developer.
+I'm Olha Shliusar and an experienced web designer and developer.
 As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19 and war with Russian. 
 I expect to work long-term relation with you because it is difficult for me to meet real clients in this world today.
 I give my whole 💖heart and soul for clients and their products.
