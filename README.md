@@ -99,7 +99,7 @@ Here are my skills that I code with.
   <li>Enthusiastic</li>
 </ul>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 
 My skill sets
 <div>
@@ -133,11 +133,5 @@ My skill sets
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/zoho_aladdinGene.jfif" width="60" alt="zoho" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
-</div>
-<!-- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prowebdev119&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prowebdev119&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
-  <br><br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prowebdev119&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p> -->
+</div> -->
 
