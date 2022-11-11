@@ -6,8 +6,6 @@ I expect to work long-term relation with you because it is difficult for me to m
 I give my whole 💖heart and soul for clients and their products.
 If you have any idea or are looking for individual developer or designer for your project, please contact me ANYTIME!
 
----
-
 <h3>You can contact me here.</h3>
 
 <div align="center">
