@@ -71,6 +71,34 @@ Here are my skills that I code with.
   <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" />
   <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon ECS-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white" />
 </p>
+
+<h3>About me</h3>
+<ul>
+  <li>I am a professional website designer and developer.</li>
+  <li>with 8+ years of rich experience in the design of Web & Mobile apps.</li>
+  <li>who is very proficient in both Frontend and Backend.</li>
+  <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
+  <li>who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
+</ul>
+
+<h3>Benefits</h3>
+<ul>
+  <li>Focus on 100% client satisfaction.</li>
+  <li>Good communication in English.</li>
+  <li>Good team working spirit in Dev Teams.</li>
+  <li>Good quality delivery with good software design principles such as SOLID and design patterns.</li>
+  <li>Quick problem solver.</li>
+  <li>Flexible working time zone according to clients'.</li>
+</ul>
+
+<h3>Personality</h3>
+<ul>
+  <li>Honest</li>
+  <li>Delicacy</li>
+  <li>High Accountability</li>
+  <li>Enthusiastic</li>
+</ul>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 
 My skill sets
