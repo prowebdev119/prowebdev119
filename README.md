@@ -75,7 +75,7 @@ If you have any idea or are looking for individual developer or designer for you
 
 <h3>About me</h3>
 <ul>
-  <li>I am a professional website designer and developer.</li>
+  <li>professional website designer and developer.</li>
   <li>with 8+ years of rich experience in the design of Web & Mobile apps.</li>
   <li>who is very proficient in both Frontend and Backend.</li>
   <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
