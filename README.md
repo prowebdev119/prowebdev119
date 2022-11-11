@@ -4,8 +4,9 @@ I'm Olha Shliusar and an experienced web designer and developer.
 As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19 and war with Russian. 
 I expect to work long-term relation with you because it is difficult for me to meet real clients in this world today.
 I give my whole 💖heart and soul for clients and their products.
+If you have any idea or are looking for individual developer or designer for your project, please contact me ANYTIME!
 
-You can contact me here.
+<h3>You can contact me here.</h3>
 
 <div align="center">
   <a href="https://join.skype.com/invite/UNq8kzDVM5yd" target="_blank" title="live:.cid.5eddc740c0b404a1">
@@ -26,7 +27,7 @@ You can contact me here.
 </div>
 <br>
 
-Here are my skills that I code with.
+<h3>Here are my skills that I code with.</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
