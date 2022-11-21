@@ -18,7 +18,7 @@ If you have any idea or are looking for individual developer or designer for you
   <a href="https://t.me/compete1191" target="_blank" title="@compete1191">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://discord.com/invite/kCYEdfdd" target="_blank" title="Olha Shliusar#8858">
+  <a href="https://discord.com/invite/kCYEdfdd" target="_blank" title="OlhaShliusar#5458">
     <img src="https://img.shields.io/badge/Discord-7952B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" title="https://www.freelancer.com/u/Olechkashusar272">
