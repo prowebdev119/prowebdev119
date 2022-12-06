@@ -1,10 +1,11 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+to+my+profile.+:)"></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+to+Top+Developer.+:)"></div>
 
+<h3>Top Developer</h3>
 I'm an experienced web designer and developer with 7 years over experience.
-As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2015, but I retired from that company from 2020 due to Covid-19 and war with Russian. 
+As a full-stack developer, I have started programming when I was 10 at code school and have entered in IT company since 2015, but I came out on April, 2020 due to Covid-19. 
 I expect to work long-term relation with you because it is difficult for me to meet real clients in this world today.
 I give my whole 💖heart and soul for clients and their products.
-If you have any idea or are looking for individual developer or designer for your project, please contact me ANYTIME!
+If you have any idea or are looking for website developer or designer for your project, please contact me ANYTIME when you are available!
 
 
 <h3>Here are my skills that I code with.</h3>
