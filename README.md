@@ -59,7 +59,6 @@ If you have any idea or are looking for website developer or designer for your p
 <h3>About me</h3>
 <ul>
   <li>professional website designer and developer.</li>
-  <li>with 8+ years of rich experience in the design of Web & Mobile apps.</li>
   <li>who is very proficient in both Frontend and Backend.</li>
   <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
   <li>who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
