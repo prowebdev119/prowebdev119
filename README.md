@@ -102,7 +102,7 @@ If you have any idea or are looking for individual developer or designer for you
   <li>Enthusiastic</li>
 </ul>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=prowebdev119&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/> -->
 
 ---
 
