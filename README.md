@@ -94,6 +94,9 @@ If you have any idea or are looking for website developer or designer for your p
   <a href="https://t.me/compete1191" target="_blank" title="@compete1191">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://www.linkedin.com/in/yulian-lahish-9a207525b" target="_blank" title="@yulian-lahish-9a207525b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://discord.com/invite/kCYEdfdd" target="_blank" title="prowebdev119#5458">
     <img src="https://img.shields.io/badge/Discord-7952B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
