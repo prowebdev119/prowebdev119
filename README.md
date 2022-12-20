@@ -97,9 +97,9 @@ If you have any idea or are looking for website developer or designer for your p
   <a href="https://discord.com/invite/kCYEdfdd" target="_blank" title="prowebdev119#5458">
     <img src="https://img.shields.io/badge/Discord-7952B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" title="https://www.freelancer.com/u/Olechkashusar272">
+<!--   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" title="https://www.freelancer.com/u/Olechkashusar272">
     <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
-  </a>
+  </a> -->
 </div>
 <br>
 
