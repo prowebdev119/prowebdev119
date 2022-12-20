@@ -91,11 +91,11 @@ If you have any idea or are looking for website developer or designer for your p
   <a href="mailto:prodev0119@gmail.com" target="_blank" title="prodev0119@gmail.com">
     <img src="https://img.shields.io/badge/Google-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/compete1191" target="_blank" title="@compete1191">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="https://www.linkedin.com/in/yulian-lahish-9a207525b" target="_blank" title="@yulian-lahish-9a207525b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:h98119@gmail.com" target="_blank" title="h98119@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://discord.com/invite/kCYEdfdd" target="_blank" title="prowebdev119#5458">
     <img src="https://img.shields.io/badge/Discord-7952B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -103,8 +103,8 @@ If you have any idea or are looking for website developer or designer for your p
 <!--   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" title="https://www.freelancer.com/u/Olechkashusar272">
     <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
   </a> -->
-  <a href="mailto:h98119@gmail.com" target="_blank" title="h98119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://t.me/compete1191" target="_blank" title="@compete1191">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 <br>
