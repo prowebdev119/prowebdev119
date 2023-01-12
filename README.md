@@ -103,7 +103,7 @@ If you have any idea or are looking for website developer or designer for your p
 <!--   <a href="https://www.freelancer.com/u/Olechkashusar272" target="_blank" title="https://www.freelancer.com/u/Olechkashusar272">
     <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
   </a> -->
-  <a href="https://t.me/compete1191" target="_blank" title="@compete1191">
+  <a href="https://t.me/compete119" target="_blank" title="@compete119">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
