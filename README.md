@@ -4,7 +4,6 @@
   src="https://komarev.com/ghpvc/?username=prowebdev119&label=Profile%20views&color=0e75b6&style=flat"
   alt="prowebdev119"
 />
-<img src="https://komarev.com/ghpvc/?username=prowebdev119&style=flat-square&color=blue" alt="prowebdev119"/>
 <h3>Top Developer</h3>
 
 
