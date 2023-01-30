@@ -15,7 +15,7 @@ If you have any idea or are looking for website developer or designer for your p
 <h3>Here are my skills that I code with.</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FF2D20?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
