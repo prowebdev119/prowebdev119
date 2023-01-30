@@ -4,7 +4,6 @@
   src="https://komarev.com/ghpvc/?username=prowebdev119&label=Profile%20views&color=0e75b6&style=flat"
   alt="prowebdev119"
 />
-<h3>Top Developer</h3>
 
 I'm an experienced web designer and developer with many years' experience.
 As a full-stack developer, I have started programming when I was 10 at code school and have entered in IT company since 2015, but I came out on April, 2020 due to Covid-19. 
